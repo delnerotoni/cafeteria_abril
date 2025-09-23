@@ -1,0 +1,18 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e temporários
+*.log
+*.tmp
+
+# Dados brutos grandes (opcional)
+data/*.csv
+
+# Configurações locais do VSCode
+.vscode/
