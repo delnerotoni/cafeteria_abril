@@ -54,12 +54,30 @@ Este projeto tem como objetivo analisar o comportamento de consumo dos clientes 
 
 ---
 
-## 📌 Próximos passos
+## 📊 Dashboard KPIs – Cafeteria Abril 2025
 
-- 🔮 Criar modelos preditivos para estimar ticket médio  
-- 📅 Avaliar sazonalidade (dias da semana, feriados)  
-- 📊 Construir dashboard interativo (Streamlit ou Power BI)  
-- 📝 Documentar insights finais em relatório executivo  
+Além da análise exploratória em Python, este projeto conta com um **dashboard executivo em Power BI**, que consolida os principais indicadores de consumo da cafeteria.
+
+### 🔑 Indicadores principais
+- Receita Total  
+- Ticket Médio  
+- Maior Ticket Médio  
+- Quantidade de Clientes  
+- % de Clientes Frequentes  
+
+### 📈 Análises incluídas
+- Ticket Médio por Dia da Semana  
+- Ticket Médio por Turno (Manhã x Tarde)  
+- Ticket Médio por Promoção no Dia  
+- Ticket Médio por Cliente Frequente  
+
+### 📂 Arquivos
+- Arquivo Power BI: [`dashboard/Dash_Cafeteria_KPIs_Abril2025.pbix`](dashboard/Dash_Cafeteria_KPIs_Abril2025.pbix)  
+- Exportação em PDF: [`assets/Dash_Cafeteria_KPIs_Abril2025.pdf`](assets/Dash_Cafeteria_KPIs_Abril2025.pdf)  
+
+### 👀 Preview
+![Preview do Dashboard](assets/preview_cafeteria_kpis_abril2025.png)
+
 
 ---
 
